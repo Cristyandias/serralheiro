@@ -16,6 +16,7 @@
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 2%;
+    height: 600px;
 
 }
 
@@ -24,7 +25,7 @@ body {
 }
 
 .menu a {
-    font-size: 20px;
+    font-size: 15px;
 }
 
 html,
@@ -265,10 +266,13 @@ li.slick-active{
 }
 .apresentacao p{
 color: #818080;
+float: left;
+
 }
 .apresentacao h1{
     color: #5c5c5c;
     display: inline-block;
+    float: left;
     }
 .bloco-endereço{
     color: #5c5c5c;
@@ -280,6 +284,6 @@ color: #818080;
 .bloco-endereçoo{
     top: -20px;
     color: #5c5c5c;
-    background-image: url('../imagens/ceu-azul.jpg');
     display: inline-block;
+    float: left;
 }
